@@ -1,0 +1,3 @@
+/home/ashwin/Documents/Beach-Blitz-Vision-2020-Examples/BasicTest/CMakeFiles/rebuild_cache.dir
+/home/ashwin/Documents/Beach-Blitz-Vision-2020-Examples/BasicTest/CMakeFiles/BasicTest.dir
+/home/ashwin/Documents/Beach-Blitz-Vision-2020-Examples/BasicTest/CMakeFiles/edit_cache.dir
