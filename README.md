@@ -18,3 +18,4 @@ The included samples are
 3. Morphology - Demos noise removal using the morphology filtering 
 4. ExtractionPipeline - Demos how to extract interesting potential vision targets 
 5. ReadWrite - Shows how you can read and write series of images from folders to debug code and annotate Mats
+6. Blurs - Shows how to do noise removal with a blur
