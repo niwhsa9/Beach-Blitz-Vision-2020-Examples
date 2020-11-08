@@ -4,6 +4,8 @@ These are the examples accompanying my workshop slides for Beach Blitz 2020. Fee
 
 The slides can be found here: https://docs.google.com/presentation/d/1W_Pmu-_JTA0794mMYNAFyK1mO5TlRSHR7M-EFMpkwDc/edit?usp=sharing
 
+The video of the presentation is here: https://www.twitch.tv/videos/794198346
+
 Each example is in a self-contained folder. To build and run, try the following:
 
 ```
